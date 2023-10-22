@@ -33,5 +33,5 @@ app.use("/api/knowledge", routerKnowledge);
 // Port server.
 const PORT = process.env.PORT || 4000;
 app.listen(PORT, () => {
-  console.log(`Server run http://localhost:${PORT}/`);
+  console.log(`Server run ${PORT}/`);
 })
