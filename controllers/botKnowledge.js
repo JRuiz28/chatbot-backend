@@ -1,4 +1,4 @@
-import BotKnowledge from "../models/botKnowledge.js";
+import BotKnowledge from "../models/BotKnowledge.js";
 
 // Functions.
 function removeChartSpetial(string) {
